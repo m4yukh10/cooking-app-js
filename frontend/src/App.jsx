@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div>
-      <h1>Recipe App</h1>
+      <h1>Cooking App</h1>
       <input
         type="text"
         value={inputData}
